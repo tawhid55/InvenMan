@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyuK7+wy1BPmLlW3UTeJoJTl6jB71qoIs432BSO3u0nRwAG+FApz3Z1Vvq3sw4FqXnph3prm1K29zSjG1Kg7IA==",
+  "success": true,
+  "projectFilePath": "E:\\My self Tutorial Work\\InvenMan\\InveMan\\InveMan.API\\InveMan.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
